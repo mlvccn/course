@@ -1,1 +1,1 @@
-# https://mlvccn.github.io/mlvc.github.io/
+# https://mlvccn.github.io/course.github.io/
